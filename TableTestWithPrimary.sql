@@ -11,7 +11,7 @@ CREATE TABLE Customers (
     [PhoneNumber] VARCHAR(12),
     [Address] VARCHAR(255),
     [City] VARCHAR(255),
-    [Zip] VARCHAR(5)
+    [Zip] VARCHAR(5),
     PRIMARY KEY [ID]
   )
  GO
